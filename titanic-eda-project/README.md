@@ -4,18 +4,18 @@ This project performs an exploratory data analysis (EDA) on the Titanic dataset 
 
 The goal is to identify key features that contributed to passenger survival using Python's data analysis and visualization libraries.
 
-## Objective
+## 📌 Objective
 
 To analyze the Titanic dataset and discover trends, patterns, and insights about passenger survival based on variables such as age, gender, class, and fare.
 
-## Tools
+## 🧰 Tools
 
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 
-## Dataset
+## 📊 Dataset
 
 - Source: [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic)
 - Files:
